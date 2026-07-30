@@ -6,8 +6,10 @@ AES keys that unlock the main files.
     - From [this pastebin](https://pastebin.com/raw/SCWdTWbj), thanks to Blenux, Bizzfarts & 0x41414141.
 - 13.30 - 21.20
     - From BenBot, thanks to FunGames.
-- 21.30 - Present
+- 21.30 - 40.00
     - From [GMatrixGames' API](https://fortnitecentral.gmatrixgames.ga/api/v1/aes).
+- 40.10 - Present
+    - From [Fortnite-API](https://fortnite-api.com/v2/aes), thanks to Marlon.
 
 [Jump to latest](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-7-season-3-runners)
 
@@ -480,4 +482,5 @@ AES keys that unlock the main files.
 |:------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
 | [41.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/41.00.md) | 0x0A2416572EECAE9561E2384EC6EC5D7C830BB5AEC4D90B5BE756648B2E9AB41A |
 | [41.10](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/41.10.md) | 0x04B2DDB4CAD8F213753FF0B58343739AB4BC37A1BFFEF1CAF553C41E0E20F03E |
-|                                              41.20                                               | 0xA398885A09DF2409979D980CC79B62653BE61EE91D2CCC436EB3294A3DA295FD |
+| [41.20](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/41.20.md) | 0xA398885A09DF2409979D980CC79B62653BE61EE91D2CCC436EB3294A3DA295FD |
+|                                              41.30                                               | 0xA738F2342C2E90DC3377B06F089214DCE13DB08FB3B74E8ECC817308D5D39E6D |
