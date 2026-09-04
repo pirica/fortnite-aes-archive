@@ -488,6 +488,7 @@ AES keys that unlock the main files.
 
 ## Chapter 7 Season 4 (Override)
 
-| Version | Key                                                                |
-|:-------:|--------------------------------------------------------------------|
-|  42.00  | 0xA97CAD008AB57725B8AC6838EA5E8432E9CC888A6E5D739671ABFA3DA8C97D94 |
+|                                             Version                                              | Key                                                                |
+|:------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
+| [42.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/42.00.md) | 0xA97CAD008AB57725B8AC6838EA5E8432E9CC888A6E5D739671ABFA3DA8C97D94 |
+|                                              42.10                                               | 0xA892869F026E2B3DD7962FFB4E5E0F9A8D2A8790A5FE035848B0303165071058 |
